@@ -1,0 +1,28 @@
+{
+  "name": "myutil",
+  "version": "1.0.0",
+  "description": "Base class, general string format test, date, time format etc.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guhaizhous/myutil.git"
+  },
+  "keywords": [
+    "util",
+    "date",
+    "number",
+    "string"
+  ],
+  "author": "guhaizhou@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guhaizhous/myutil/issues"
+  },
+  "homepage": "https://github.com/guhaizhous/myutil#readme"
+}
